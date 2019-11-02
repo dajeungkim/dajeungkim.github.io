@@ -1,14 +1,14 @@
 # Site/SEO settings
-email: eungggggg@gmail.com
+email: dajeungkim@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Eunji Jeong
+name: Da Jeung Kim
 title: Portfolio
 description: >
-  Eunji Jeong - a Product Designer's Portfolio
-url: https://eungggggg.github.io
+  Da Jeung Kim - Designer's Portfolio
+url: https://dajeungkim.github.io/
 twitter_username: eungggggg
 default_img: /assets/images/seo.jpg
 social:
